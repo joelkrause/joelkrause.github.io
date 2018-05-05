@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Krause</title>
-    <link>http://heyjoel.co/</link>
-    <atom:link href="http://heyjoel.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 May 2018 14:24:34 +0000</pubDate>
-    <lastBuildDate>Sat, 05 May 2018 14:24:34 +0000</lastBuildDate>
+    <link>http://heyjoel.siteleaf.net/</link>
+    <atom:link href="http://heyjoel.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 May 2018 14:30:01 +0000</pubDate>
+    <lastBuildDate>Sat, 05 May 2018 14:30:01 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
   </channel>
