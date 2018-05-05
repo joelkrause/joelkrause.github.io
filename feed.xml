@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Krause</title>
+    <link>http://joelkrause.siteleaf.net/</link>
+    <atom:link href="http://joelkrause.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 May 2018 14:17:55 +0000</pubDate>
+    <lastBuildDate>Sat, 05 May 2018 14:17:55 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+  </channel>
+</rss>
